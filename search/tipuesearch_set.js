@@ -22,4 +22,3 @@ var tipuesearch_stem = {"words": [
 
 var tipuesearch_pages = ["http://www.tipue.com/search", "http://www.tipue.com/search/demos/static",  "http://www.tipue.com/search/demos/live", "http://www.tipue.com/blog", "http://www.tipue.com/tipr", "http://www.tipue.com/jquery", "http://www.tipue.com/support", "http://www.tipue.com/drop", "http://www.tipue.com/about", "http://www.tipue.com/tos"];
 
-]};
